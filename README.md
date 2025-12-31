@@ -29,11 +29,11 @@ termux-setup-storage
 ```
 **3° Comando**
 ```
-cd /sdcard/Download && git clone https://github.com/Tedzinho/TED-BOT-V4.4
+cd /sdcard/Download && git clone https://github.com/TED-BOT-OFC/TED-BOT-V4.6
 ```
 **4° Comando**
 ```
-cd /sdcard/Download/TED-BOT-V4.4 && npm start
+cd /storage/emulated/0/Download/TED-BOT-V4.6 && npm install --force --no-bin-links && npm start
 ```
 
 ## 💾 START DO BOT 💾 <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
